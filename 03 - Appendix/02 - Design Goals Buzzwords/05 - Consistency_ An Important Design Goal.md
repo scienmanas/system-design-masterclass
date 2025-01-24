@@ -50,4 +50,4 @@ Understanding the difference between strong and eventual consistency is crucial 
 
 ---
 
-[back](../README.md)
+### 🔙 [Back](../README.md)

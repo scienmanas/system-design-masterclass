@@ -65,4 +65,4 @@ GraphQL simplifies the process by allowing clients to request exactly what they 
 
 ---
 
-[back](../README.md)
+### 🔙 [Back](../README.md)
