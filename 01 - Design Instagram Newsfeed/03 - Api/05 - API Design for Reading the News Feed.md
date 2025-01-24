@@ -1,4 +1,4 @@
-# **API Design for Reading the News Feed**
+# **📡 API Design for Reading the News Feed**
 
 This section outlines the API design for reading the news feed (or timeline) in the news feed system. It focuses on the structure and components of the API request.
 
@@ -6,8 +6,7 @@ This section outlines the API design for reading the news feed (or timeline) in 
 
 ---
 
-
-## **Understanding the API Call**
+## **🔍 Understanding the API Call**
 
 When a user wants to view their news feed, the client communicates with the server using an API call. This example also uses the RESTful API design:
 
@@ -16,64 +15,61 @@ When a user wants to view their news feed, the client communicates with the serv
 ---
 
 ### **Step 1: Choose the HTTP Method**
-
-* Use the **`GET`** method because we are fetching data from the server (retrieving the news feed).
+- Use the **📥 `GET`** method because we are fetching data from the server (retrieving the news feed).
 
 ### **Step 2: Define the Endpoint**
-
-* The endpoint for reading the news feed is:  
-   **`/v1/feed/{user_id}`**  
-  * **`v1`**: Signifies version 1 of the API.  
-  * **`feed`**: Indicates that the action is related to fetching the news feed.  
-  * **`{user_id}`**: Placeholder for the ID of the user whose feed is being requested.
-
+- The endpoint for reading the news feed is:  
+  **📍 `/v1/feed/{user_id}`**
+    - **`v1`**: Signifies version 1 of the API.
+    - **`feed`**: Indicates that the action is related to fetching the news feed.
+    - **`{user_id}`**: Placeholder for the ID of the user whose feed is being requested.
 
 ### **Step 3: Request Body (Not Applicable)**
-
-* **`GET`** requests typically do not have a request body.  
-* The request is solely for retrieving data from the server.
-
----
-
-## **Example API Request**
-
-`GET /v1/feed/12345`
+- **`GET`** requests typically do not have a request body.
+- The request is solely for retrieving data from the server.
 
 ---
 
-## **Expected Response**
+## **📝 Example API Request**
+
+### **Request**
+- **📥 Method:** `GET`
+- **📍 Endpoint:** `/v1/feed/12345`
+- **🌐 Host:** `api.newsfeed.com`
+- **🔐 Authorization:** `Bearer <access_token>`
+
+
+### 📄 Expected Response
 
 The response will include the list of posts in the user's news feed. Each post contains metadata and content:
 
-```
-{  
-  "user\_id": "12345",  
-  "feed": \[  
-    {  
-      "post\_id": "67890",  
-      "author\_id": "54321",  
-      "content": "Sample post content",  
-      "timestamp": "2025-01-22T10:30:00Z",  
-      "likes": 150,  
-      "comments": 25  
-    },  
-    {  
-      "post\_id": "67891",  
-      "author\_id": "98765",  
-      "content": "Another sample post content",  
-      "timestamp": "2025-01-22T11:00:00Z",  
-      "likes": 75,  
-      "comments": 10  
-    }  
-  \]  
+```json
+{
+  "user_id": "12345",
+  "feed": [
+    {
+      "post_id": "67890",
+      "author_id": "54321",
+      "content": "Sample post content",
+      "timestamp": "2025-01-22T10:30:00Z",
+      "likes": 150,
+      "comments": 25
+    },
+    {
+      "post_id": "67891",
+      "author_id": "98765",
+      "content": "Another sample post content",
+      "timestamp": "2025-01-22T11:00:00Z",
+      "likes": 75,
+      "comments": 10
+    }
+  ]
 }
 ```
 
-
 ---
 
-
-## **Additional Parameters**
+## 🔧 Additional Parameters
 
 Optional query parameters can be added to the endpoint to customize the response:
 
@@ -83,7 +79,7 @@ Optional query parameters can be added to the endpoint to customize the response
 
 ---
 
-This API design ensures efficient and customizable access to the user's personalized news feed.
+This API design ensures 🎯 efficient and ✨ customizable access to the user's personalized news feed.
 
 ---
 
