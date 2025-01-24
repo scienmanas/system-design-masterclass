@@ -35,10 +35,6 @@ Think of a library with millions of books. Instead of one giant, overwhelming se
 * **Horizontal Sharding:** Divide data across multiple servers based on rows (e.g., users with IDs 1-1000 on server 1, users 1001-2000 on server 2).  
 * **Vertical Sharding:** Divide data based on columns (e.g., user profile information on one server, user posts on another).
 
-### **Next Steps**
-
-In the next session, we'll discuss different sharding strategies and explore the challenges and considerations of implementing database sharding. Stay tuned\!
-
 ---
 
 ### 🔙 [Back](../README.md)

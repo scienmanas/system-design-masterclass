@@ -46,10 +46,6 @@ Imagine a restaurant with a waiter (Order Processing Service) and a chef (Paymen
 * **Task Management:** Distribute tasks among workers in a distributed system.  
 * **Data Streaming:** Process streams of data asynchronously.
 
-### **Next Steps**
-
-In the next session, we'll explore different types of message queues, their features, and how to choose the right message queue for your system. Stay tuned\!
-
 ---
 
 ### 🔙 [Back](../README.md)

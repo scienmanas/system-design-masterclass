@@ -39,10 +39,5 @@ Imagine carrying a spare tire in your car. It adds weight, but if you get a flat
 * **Cost:** Storing and maintaining multiple copies of data increases storage costs.
 
 ---
-### **Next Steps**
-
-In the next session, we'll delve deeper into different replication techniques and explore the trade-offs involved in choosing the right replication strategy. Stay tuned\!
-
----
 
 ### 🔙 [Back](../README.md)

@@ -28,15 +28,6 @@ Think of vertical scaling as upgrading your car's engine for more power. Horizon
 * **Improved Fault Tolerance:** If one server fails, others can still handle the load.  
 * **Easier Scalability:** Add or remove servers as needed to adjust to demand.
 
-## **Fun Fact**
-
-Did you know that Facebook has over 30,000 servers to handle its user load? That's enough to host an entire digital city of cat videos, memes, and status updates\!
-
----
-## **Next Steps**
-
-In the next session, we'll dive deeper into the techniques and strategies for implementing effective horizontal scaling. Stay tuned\!
-
 ---
 
 ### 🔙 [Back](../README.md)

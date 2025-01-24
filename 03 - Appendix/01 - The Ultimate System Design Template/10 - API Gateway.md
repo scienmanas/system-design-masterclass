@@ -20,10 +20,6 @@ An API gateway acts as a single entry point for all incoming requests. It's like
 2. **Route Request:** The API gateway analyzes the request and routes it to the appropriate service (e.g., web server, order processing service, user authentication service).  
 3. **Aggregate Responses:** If a request requires multiple services, the API gateway combines the responses before sending them back to the user.
 
-## **Fun Fact**
-
-The name "API Gateway" is quite literal\! Just like a physical gateway controls and directs traffic, an API gateway directs incoming requests to the correct destination, ensuring a smooth and organized flow.
-
 ## **Benefits of Using an API Gateway**
 
 * **Centralized Management:** Provides a single point of control for all API requests.  
@@ -42,10 +38,6 @@ Imagine a large company with multiple departments (sales, marketing, customer su
 * **Mobile Applications:** Provide a secure and efficient way for mobile apps to access backend services.  
 * **Third-Party APIs:** Control access and usage of external APIs.  
 * **IoT Devices:** Handle communication between IoT devices and backend systems.
-
-### **Next Steps**
-
-In the next session, we'll discuss advanced features of API gateways, such as rate limiting, caching, and request transformation. Stay tuned\!
 
 ---
 

@@ -32,10 +32,5 @@ Think of a busy restaurant with two chefs. If all orders go to one chef, they'll
 * **Redundancy:** If one server fails, the load balancer redirects traffic to other servers, ensuring high availability.
 
 ---
-## **Next Steps**
-
-In the next session, we'll explore different load balancing algorithms and how to choose the right one for your system. Stay tuned\!
-
----
 
 ### 🔙 [Back](../README.md)

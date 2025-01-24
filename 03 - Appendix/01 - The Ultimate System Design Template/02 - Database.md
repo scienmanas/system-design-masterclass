@@ -33,16 +33,6 @@ Selecting the right database depends on factors like:
 * **Scalability Needs:** How much data you need to store and how quickly it will grow.  
 * **Performance Requirements:** How fast you need to access and retrieve data.
 
-## **Next Steps**
-
-In the following sections, we'll delve deeper into different database types and explore how to choose the best one for your system.
-
-## **Fun Fact**
-
-Did you know that the first database management system, called IDS, was created in the 1960s?
-
-Stay tuned for more exciting insights into the world of databases\!
-
 ---
 
 ### 🔙 [Back](../README.md)

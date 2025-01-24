@@ -28,15 +28,6 @@ A server is a computer or device that listens to the client. It understands the 
 
 This flow is presented at a very high level. There's a lot more happening on the server side, which we'll explore soon.
 
-### **Fun Fact**
-
-Did you know the first website ever created is still online? You can visit it at info.cern.org. It was created by Tim Berners-Lee, considered the father of the World Wide Web, in 1991\.
-
----
-### **Next Steps**
-
-Stay tuned for the next part, where we'll delve deeper into the server details\!
-
 ---
 
 ### 🔙 [Back](../README.md)
