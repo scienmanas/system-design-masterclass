@@ -68,5 +68,5 @@ This section outlines the API design for following and unfollowing another user 
 This design ensures clarity and simplicity while maintaining RESTful API principles.
 
 ---
-[back](../README.md)
+### 🔙 [Back](../README.md)
 

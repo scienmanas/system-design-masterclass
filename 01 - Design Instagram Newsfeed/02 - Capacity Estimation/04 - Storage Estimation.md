@@ -50,4 +50,4 @@ This section estimates the storage requirements for the news feed system, consid
   * **Total Storage**: 216 TB/day × 365 days/year × 10 years \= 750 PB
 
 ---
-[back](../README.md)
+### 🔙 [Back](../README.md)

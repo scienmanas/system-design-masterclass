@@ -25,4 +25,4 @@ This section estimates the cache memory required for the news feed system to imp
     * **Cache Memory Required**: 1% × 216 TB \= 2.16 TB
 
 ---
-[back](../README.md)
+### 🔙 [Back](../README.md)
