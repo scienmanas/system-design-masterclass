@@ -52,7 +52,12 @@ This module provides additional resources and deep dives into key concepts relat
 
 ### **05 - Database & Storage Buzzwords** 🗄️
 - [Introduction: Data Management and Storage in System Design](05%20-%20Database%20%26%20Storage%20Buzzwords/01%20-%20Introduction%20Data%20Management%20and%20Storage%20in%20System%20Design.md)
-
+- [Relational Database - SQL Database.md](05%20-%20Database%20%26%20Storage%20Buzzwords/02%20-%20Relational%20Database%20-%20SQL%20Database.md)
+- [Non-Relational Database - NoSQL Database.md](05%20-%20Database%20%26%20Storage%20Buzzwords/03%20-%20Non-Relational%20Database%20-%20NoSQL%20Database.md)
+- [SQL vs NoSQL.md](05%20-%20Database%20%26%20Storage%20Buzzwords/04%20-%20SQL%20vs%20NoSQL.md)
+- [Object Storage.md](05%20-%20Database%20%26%20Storage%20Buzzwords/05%20-%20Object%20Storage.md)
+- [Cache.md](05%20-%20Database%20%26%20Storage%20Buzzwords/06%20-%20Cache.md)
+- [CDN.md](05%20-%20Database%20%26%20Storage%20Buzzwords/07%20-%20CDN.md)
 ---
 
 ### **06 - Caching Deep Dives Buzzwords** 🚀
