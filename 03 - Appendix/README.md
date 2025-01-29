@@ -68,6 +68,11 @@ This module provides additional resources and deep dives into key concepts relat
 
 ### **07 - Extra Buzzwords** 🔍📚
 
+- [Cloud Computing](07%20-%20Extra%20Buzzwords/01%20-%20Cloud%20Computing.md)
+- [Logging and Monitoring](07%20-%20Extra%20Buzzwords/02%20-%20Logging%20and%20Monitoring.md)
+- [Hashing and Consistent Hashing](07%20-%20Extra%20Buzzwords/03%20-%20Hashing%20and%20Consistent%20Hashing.md)
+- [CAP Theorem](07%20-%20Extra%20Buzzwords/04%20-%20CAP%20Theorem.md)
+
 ---
 
 ### **08 - Common FAQs** ❓📝
