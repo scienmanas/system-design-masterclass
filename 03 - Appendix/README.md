@@ -1,11 +1,11 @@
-# 📂 Appendix
+# 📂 **Appendix**
 
 ---
 This module provides additional resources and deep dives into key concepts related to designing a system similar to Instagram's news feed. It is part of the **System Design Masterclass (2025)** study materials. 🚀📚
 
 ---
 
-## 📚 Topics
+## 📚 **Topics**
 
 ### **01 - The Ultimate System Design Templates** 🛠️📋
 - [Client & Server](01%20-%20The%20Ultimate%20System%20Design%20Template/01%20-%20Client%20%26%20Server.md) 💻🌐
@@ -68,14 +68,18 @@ This module provides additional resources and deep dives into key concepts relat
 
 ### **07 - Extra Buzzwords** 🔍📚
 
-- [Cloud Computing](07%20-%20Extra%20Buzzwords/01%20-%20Cloud%20Computing.md)
-- [Logging and Monitoring](07%20-%20Extra%20Buzzwords/02%20-%20Logging%20and%20Monitoring.md)
-- [Hashing and Consistent Hashing](07%20-%20Extra%20Buzzwords/03%20-%20Hashing%20and%20Consistent%20Hashing.md)
-- [CAP Theorem](07%20-%20Extra%20Buzzwords/04%20-%20CAP%20Theorem.md)
+- [Cloud Computing](07%20-%20Extra%20Buzzwords/01%20-%20Cloud%20Computing.md) ☁️💻
+- [Logging and Monitoring](07%20-%20Extra%20Buzzwords/02%20-%20Logging%20and%20Monitoring.md) 📝👀
+- [Hashing and Consistent Hashing](07%20-%20Extra%20Buzzwords/03%20-%20Hashing%20and%20Consistent%20Hashing.md) 🔐🔄
+- [CAP Theorem](07%20-%20Extra%20Buzzwords/04%20-%20CAP%20Theorem.md) 🧩⚖️
 
 ---
 
 ### **08 - Common FAQs** ❓📝
+
+- [Database Index](08%20-%20Common%20FAQs/01%20-%20Database%20Index.md) 🗄️📑
+- [Why should you do capacity estimation](08%20-%20Common%20FAQs/02%20-%20Why%20should%20you%20do%20capacity%20estimation.md) 🧮💡
+- [Apache Kafka Event Streaming](08%20-%20Common%20FAQs/03%20-%20Apache%20Kafka%20Event%20Streaming.md) 🚀🌊
 
 ---
 
