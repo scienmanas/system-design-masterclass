@@ -112,7 +112,7 @@ Imagine you’re at a restaurant. You look at the menu and decide to order a bur
 
 This **quick internal communication** at the restaurant is a lot like **gRPC in the tech world**.
 
-### gRPC in Technology  
+### gRPC in Technology   - remote procedure calls
 
 - Just as the kitchen staff use shorthand to communicate efficiently, **gRPC API** allows different internal parts of a system (like microservices) to communicate efficiently.  
 - **gRPC uses less data** to send messages, making it **fast and efficient**.
